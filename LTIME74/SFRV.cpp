@@ -23,7 +23,7 @@ Birla Institute of Technology
 CS K18
 */
  
-  ll i,j,n,k;
+  ll i,j,n;
 
  
 int main (){
